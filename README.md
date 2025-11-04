@@ -41,8 +41,8 @@ It would be my great honor if some work could be helpful for your research work!
 ## Git Stats
 
 <p align="left">
-  <a href="https://github.com/amazingdd">
-    <img src="https://github-stats-alpha.vercel.app/api?username=amazingdd&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  <a href="https://github.com/yudi-mars">
+    <img src="https://github-stats-alpha.vercel.app/api?username=yudi-mars&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
 </p>
 
