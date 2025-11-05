@@ -9,7 +9,7 @@ Hi, I'm Di Yu! You can also call me Mars!
 
 - PhD candidate in the School of Computer Science and Technology @ [Zhejiang University](https://www.zju.edu.cn/).  
 - Conducting research on **Brain-inspired Edge Intelligence**, **Data Science**, and **Recommendation System** @ [CCNT Lab](http://ccnt.zju.edu.cn/index.aspx).  
-- My CV is available [here](http://amazingdd.github.io/) if you feel interested in me.
+- My CV is available [here](http://yudi-mars.github.io/) if you feel interested in me.
 
 I strongly advocate open-source and reproducible research and always devote myself to building my work into valuable real-world applications.
 My repositories aim to provide simple and easily understandable codes for those who want to quickly manage the Recommender System area and Data Analytics. 
